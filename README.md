@@ -38,6 +38,3 @@ To use the application:
 
 Contributions, bug reports, and feature requests are welcome. Feel free to open an issue or submit a pull request on the GitHub repository.
 
-#### License:
-
-This project is licensed under the MIT License. See the LICENSE file for details.
